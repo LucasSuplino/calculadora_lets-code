@@ -39,24 +39,9 @@ OperacaoBancaria:
    - valor: 500.0
    - dataHoraOperacao: 2022-01-08T14:18:40
 OperacaoBancaria:
-   operador: Larissa
-   - tipo: DEPOSITO
-   - valor: 20.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
-OperacaoBancaria:
-   operador: Larissa
-   - tipo: DEPOSITO
-   - valor: 20.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
-OperacaoBancaria:
    operador: Ezequiel
    - tipo: DEPOSITO
    - valor: 500.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
-OperacaoBancaria:
-   operador: Larissa
-   - tipo: DEPOSITO
-   - valor: 20.0
    - dataHoraOperacao: 2022-01-17T13:30:28
 OperacaoBancaria:
    operador: Larissa
@@ -79,27 +64,12 @@ OperacaoBancaria:
    - valor: 140.0
    - dataHoraOperacao: 2022-01-20T14:12:24
 OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-20T15:43:47
-OperacaoBancaria:
    operador: Eduarda
    - tipo: DEPOSITO
    - valor: 560.0
    - dataHoraOperacao: 2022-01-20T15:43:47
 OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-20T15:43:47
-OperacaoBancaria:
    operador: Rebeca
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-20T15:43:47
-OperacaoBancaria:
-   operador: Ângelo
    - tipo: DEPOSITO
    - valor: 80.0
    - dataHoraOperacao: 2022-01-20T15:43:47
@@ -168,4 +138,4 @@ contaBancaria:
    -banco: Santander
    -agencia: 0186
    -conta: 48394523-9
-   -saldo: 4520.0
+   -saldo: 4220.0

@@ -19,16 +19,6 @@ OperacaoBancaria:
    - valor: 40.0
    - dataHoraOperacao: 2022-01-04T12:24:42
 OperacaoBancaria:
-   operador: Brenda
-   - tipo: DEPOSITO
-   - valor: 40.0
-   - dataHoraOperacao: 2022-01-04T12:24:42
-OperacaoBancaria:
-   operador: Brenda
-   - tipo: DEPOSITO
-   - valor: 40.0
-   - dataHoraOperacao: 2022-01-04T12:24:42
-OperacaoBancaria:
    operador: Bryan
    - tipo: DEPOSITO
    - valor: 420.0
@@ -38,16 +28,6 @@ OperacaoBancaria:
    - tipo: SAQUE
    - valor: 40.0
    - dataHoraOperacao: 2022-01-07T14:36:58
-OperacaoBancaria:
-   operador: Maitê
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-07T15:36:58
-OperacaoBancaria:
-   operador: Maitê
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-07T15:36:58
 OperacaoBancaria:
    operador: Laura
    - tipo: DEPOSITO
@@ -63,21 +43,6 @@ OperacaoBancaria:
    - tipo: SAQUE
    - valor: 260.0
    - dataHoraOperacao: 2022-01-08T12:18:40
-OperacaoBancaria:
-   operador: Victor
-   - tipo: SAQUE
-   - valor: 260.0
-   - dataHoraOperacao: 2022-01-08T12:18:40
-OperacaoBancaria:
-   operador: Victor
-   - tipo: SAQUE
-   - valor: 260.0
-   - dataHoraOperacao: 2022-01-08T12:18:40
-OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 240.0
-   - dataHoraOperacao: 2022-01-08T14:18:40
 OperacaoBancaria:
    operador: Ângelo
    - tipo: DEPOSITO
@@ -134,36 +99,6 @@ OperacaoBancaria:
    - valor: 320.0
    - dataHoraOperacao: 2022-01-29T12:56:11
 OperacaoBancaria:
-   operador: Leonardo
-   - tipo: SAQUE
-   - valor: 320.0
-   - dataHoraOperacao: 2022-01-29T12:56:11
-OperacaoBancaria:
-   operador: Leonardo
-   - tipo: SAQUE
-   - valor: 320.0
-   - dataHoraOperacao: 2022-01-29T12:56:11
-OperacaoBancaria:
-   operador: Leonardo
-   - tipo: SAQUE
-   - valor: 320.0
-   - dataHoraOperacao: 2022-01-29T12:56:11
-OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 500.0
-   - dataHoraOperacao: 2022-01-29T13:56:11
-OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 500.0
-   - dataHoraOperacao: 2022-01-29T13:56:11
-OperacaoBancaria:
-   operador: Ângelo
-   - tipo: DEPOSITO
-   - valor: 500.0
-   - dataHoraOperacao: 2022-01-29T13:56:11
-OperacaoBancaria:
    operador: Frederico
    - tipo: SAQUE
    - valor: 580.0
@@ -183,4 +118,4 @@ contaBancaria:
    -banco: Santander
    -agencia: 3381
    -conta: 60214801-9
-   -saldo: 2480.0
+   -saldo: 1980.0

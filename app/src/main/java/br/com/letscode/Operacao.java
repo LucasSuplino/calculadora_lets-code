@@ -19,4 +19,28 @@ public class Operacao {
     private String tipo;
     private BigDecimal valor;
 
+    @Override
+    public boolean equals(Object obj) {
+        Operacao opobj = Operacao.class.cast(obj);
+
+        if (DataHoraOperacao.isEqual(opobj.getDataHoraOperacao())) {
+            if(operador.equals(opobj.getOperador())) {
+                if(tipo.equals(opobj.getTipo())) {
+                    if(valor.compareTo(opobj.getValor()) == 0) {
+                        return true;
+                    }
+                }
+            }
+        }
+
+        return false;
+
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = Integer. valueOf(id_da_conta);
+        return hash;
+    }
+
 }

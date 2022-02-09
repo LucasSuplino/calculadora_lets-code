@@ -14,21 +14,6 @@ OperacaoBancaria:
    - valor: 520.0
    - dataHoraOperacao: 2022-01-07T11:36:58
 OperacaoBancaria:
-   operador: Francisco
-   - tipo: SAQUE
-   - valor: 520.0
-   - dataHoraOperacao: 2022-01-07T11:36:58
-OperacaoBancaria:
-   operador: Francisco
-   - tipo: SAQUE
-   - valor: 520.0
-   - dataHoraOperacao: 2022-01-07T11:36:58
-OperacaoBancaria:
-   operador: Francisco
-   - tipo: SAQUE
-   - valor: 520.0
-   - dataHoraOperacao: 2022-01-07T11:36:58
-OperacaoBancaria:
    operador: Matheus
    - tipo: DEPOSITO
    - valor: 40.0
@@ -54,16 +39,6 @@ OperacaoBancaria:
    - valor: 100.0
    - dataHoraOperacao: 2022-01-07T15:55:53
 OperacaoBancaria:
-   operador: Bryan
-   - tipo: DEPOSITO
-   - valor: 100.0
-   - dataHoraOperacao: 2022-01-07T15:55:53
-OperacaoBancaria:
-   operador: Bryan
-   - tipo: DEPOSITO
-   - valor: 100.0
-   - dataHoraOperacao: 2022-01-07T15:55:53
-OperacaoBancaria:
    operador: Alexandre
    - tipo: DEPOSITO
    - valor: 80.0
@@ -78,21 +53,6 @@ OperacaoBancaria:
    - tipo: DEPOSITO
    - valor: 60.0
    - dataHoraOperacao: 2022-01-17T12:30:28
-OperacaoBancaria:
-   operador: Frederico
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
-OperacaoBancaria:
-   operador: Frederico
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
-OperacaoBancaria:
-   operador: Frederico
-   - tipo: DEPOSITO
-   - valor: 80.0
-   - dataHoraOperacao: 2022-01-17T13:30:28
 OperacaoBancaria:
    operador: Frederico
    - tipo: DEPOSITO
@@ -139,16 +99,6 @@ OperacaoBancaria:
    - valor: 180.0
    - dataHoraOperacao: 2022-01-28T12:34:24
 OperacaoBancaria:
-   operador: Clarissa
-   - tipo: DEPOSITO
-   - valor: 180.0
-   - dataHoraOperacao: 2022-01-28T12:34:24
-OperacaoBancaria:
-   operador: Clarissa
-   - tipo: DEPOSITO
-   - valor: 180.0
-   - dataHoraOperacao: 2022-01-28T12:34:24
-OperacaoBancaria:
    operador: Juliano
    - tipo: SAQUE
    - valor: 220.0
@@ -158,4 +108,4 @@ contaBancaria:
    -banco: Santander
    -agencia: 2254
    -conta: 37025102-7
-   -saldo: -1200.0
+   -saldo: -440.0

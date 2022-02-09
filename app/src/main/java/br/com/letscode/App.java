@@ -30,14 +30,18 @@ public class App {
                 contas.put(operacao[1], new Conta(operacao[1], operacao[4], operacao[3], operacao[2], new ArrayList<Operacao>(), BigDecimal.valueOf(0)));
             }
 
-            contas.get(operacao[1]).getOperacoes().add(new Operacao(LocalDateTime.parse(operacao[0]), operacao[1], operacao[5], operacao[6], new BigDecimal(operacao[7])));
+            Operacao op = new Operacao(LocalDateTime.parse(operacao[0]), operacao[1], operacao[5], operacao[6], new BigDecimal(operacao[7]));
+
+            if (!contas.get(operacao[1]).getOperacoes().contains(op)) {
+                contas.get(operacao[1]).getOperacoes().add(op);
+            }
 
         }
 
         contas.entrySet().stream().map(Map.Entry::getValue).forEach(conta -> imprimirExtrato(conta.getId_da_conta(), conta.gerarExtrato()));
 
         //imprimirExtrato("148972c2-7062-40c3-9b4d-e96b538a90dc", contas.get("148972c2-7062-40c3-9b4d-e96b538a90dc").gerarExtrato());
-        //System.out.println(contas.get("148972c2-7062-40c3-9b4d-e96b538a90dc").gerarExtrato());
+        //System.out.println(contas.get("09953f2d-d674-4f8e-bfe0-c17fdd6cb920").gerarExtrato());
 
     }
 

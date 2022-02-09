@@ -9,16 +9,6 @@ OperacaoBancaria:
    - valor: 40.0
    - dataHoraOperacao: 2022-01-04T12:24:42
 OperacaoBancaria:
-   operador: Bryan
-   - tipo: DEPOSITO
-   - valor: 420.0
-   - dataHoraOperacao: 2022-01-04T15:24:42
-OperacaoBancaria:
-   operador: Bryan
-   - tipo: DEPOSITO
-   - valor: 420.0
-   - dataHoraOperacao: 2022-01-04T15:24:42
-OperacaoBancaria:
    operador: Emanuel
    - tipo: DEPOSITO
    - valor: 20.0
@@ -123,4 +113,4 @@ contaBancaria:
    -banco: Santander
    -agencia: 4009
    -conta: 43811754-6
-   -saldo: 2120.0
+   -saldo: 1280.0
