@@ -1,0 +1,186 @@
+OperacaoBancaria:
+   operador: Eduarda
+   - tipo: DEPOSITO
+   - valor: 280.0
+   - dataHoraOperacao: 2022-01-03T11:20:27
+OperacaoBancaria:
+   operador: Miguel
+   - tipo: DEPOSITO
+   - valor: 460.0
+   - dataHoraOperacao: 2022-01-04T11:24:42
+OperacaoBancaria:
+   operador: Victor
+   - tipo: DEPOSITO
+   - valor: 480.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Brenda
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Brenda
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Brenda
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Bryan
+   - tipo: DEPOSITO
+   - valor: 420.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Brenda
+   - tipo: SAQUE
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-07T14:36:58
+OperacaoBancaria:
+   operador: Maitê
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-07T15:36:58
+OperacaoBancaria:
+   operador: Maitê
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-07T15:36:58
+OperacaoBancaria:
+   operador: Laura
+   - tipo: DEPOSITO
+   - valor: 460.0
+   - dataHoraOperacao: 2022-01-07T15:36:58
+OperacaoBancaria:
+   operador: Maitê
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-07T15:36:58
+OperacaoBancaria:
+   operador: Victor
+   - tipo: SAQUE
+   - valor: 260.0
+   - dataHoraOperacao: 2022-01-08T12:18:40
+OperacaoBancaria:
+   operador: Victor
+   - tipo: SAQUE
+   - valor: 260.0
+   - dataHoraOperacao: 2022-01-08T12:18:40
+OperacaoBancaria:
+   operador: Victor
+   - tipo: SAQUE
+   - valor: 260.0
+   - dataHoraOperacao: 2022-01-08T12:18:40
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 240.0
+   - dataHoraOperacao: 2022-01-08T14:18:40
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 240.0
+   - dataHoraOperacao: 2022-01-08T14:18:40
+OperacaoBancaria:
+   operador: Miguel
+   - tipo: DEPOSITO
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-20T12:43:47
+OperacaoBancaria:
+   operador: Victor
+   - tipo: DEPOSITO
+   - valor: 520.0
+   - dataHoraOperacao: 2022-01-20T13:12:24
+OperacaoBancaria:
+   operador: Leonardo
+   - tipo: SAQUE
+   - valor: 560.0
+   - dataHoraOperacao: 2022-01-20T14:43:47
+OperacaoBancaria:
+   operador: Juliano
+   - tipo: DEPOSITO
+   - valor: 100.0
+   - dataHoraOperacao: 2022-01-21T13:37:07
+OperacaoBancaria:
+   operador: Francisco
+   - tipo: DEPOSITO
+   - valor: 580.0
+   - dataHoraOperacao: 2022-01-21T14:37:07
+OperacaoBancaria:
+   operador: Felipe
+   - tipo: DEPOSITO
+   - valor: 420.0
+   - dataHoraOperacao: 2022-01-21T14:42:37
+OperacaoBancaria:
+   operador: Lucas
+   - tipo: SAQUE
+   - valor: 580.0
+   - dataHoraOperacao: 2022-01-23T12:32:28
+OperacaoBancaria:
+   operador: Flôr
+   - tipo: SAQUE
+   - valor: 540.0
+   - dataHoraOperacao: 2022-01-26T12:53:20
+OperacaoBancaria:
+   operador: Emanuel
+   - tipo: SAQUE
+   - valor: 380.0
+   - dataHoraOperacao: 2022-01-28T11:34:24
+OperacaoBancaria:
+   operador: Leonardo
+   - tipo: SAQUE
+   - valor: 320.0
+   - dataHoraOperacao: 2022-01-29T12:56:11
+OperacaoBancaria:
+   operador: Leonardo
+   - tipo: SAQUE
+   - valor: 320.0
+   - dataHoraOperacao: 2022-01-29T12:56:11
+OperacaoBancaria:
+   operador: Leonardo
+   - tipo: SAQUE
+   - valor: 320.0
+   - dataHoraOperacao: 2022-01-29T12:56:11
+OperacaoBancaria:
+   operador: Leonardo
+   - tipo: SAQUE
+   - valor: 320.0
+   - dataHoraOperacao: 2022-01-29T12:56:11
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+OperacaoBancaria:
+   operador: Frederico
+   - tipo: SAQUE
+   - valor: 580.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+OperacaoBancaria:
+   operador: Luiza
+   - tipo: DEPOSITO
+   - valor: 600.0
+   - dataHoraOperacao: 2022-01-29T15:56:11
+contaBancaria:
+   -id: bcec5aac-5da2-4277-bf96-466e99ae983c
+   -banco: Santander
+   -agencia: 3381
+   -conta: 60214801-9
+   -saldo: 2480.0

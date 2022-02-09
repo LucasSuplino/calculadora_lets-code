@@ -1,0 +1,171 @@
+OperacaoBancaria:
+   operador: Laura
+   - tipo: DEPOSITO
+   - valor: 300.0
+   - dataHoraOperacao: 2022-01-03T11:20:27
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: SAQUE
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-03T15:20:27
+OperacaoBancaria:
+   operador: Clarissa
+   - tipo: DEPOSITO
+   - valor: 440.0
+   - dataHoraOperacao: 2022-01-03T15:20:27
+OperacaoBancaria:
+   operador: João
+   - tipo: DEPOSITO
+   - valor: 400.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Emanuel
+   - tipo: DEPOSITO
+   - valor: 320.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Jade
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-07T15:55:53
+OperacaoBancaria:
+   operador: João
+   - tipo: SAQUE
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-08T13:18:40
+OperacaoBancaria:
+   operador: Lorenzo
+   - tipo: SAQUE
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-08T14:18:40
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-17T13:30:28
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-17T13:30:28
+OperacaoBancaria:
+   operador: Ezequiel
+   - tipo: DEPOSITO
+   - valor: 500.0
+   - dataHoraOperacao: 2022-01-17T13:30:28
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-17T13:30:28
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-17T13:30:28
+OperacaoBancaria:
+   operador: Ezequiel
+   - tipo: DEPOSITO
+   - valor: 280.0
+   - dataHoraOperacao: 2022-01-17T15:30:28
+OperacaoBancaria:
+   operador: Felipe
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-20T13:43:47
+OperacaoBancaria:
+   operador: Giovanna
+   - tipo: DEPOSITO
+   - valor: 140.0
+   - dataHoraOperacao: 2022-01-20T14:12:24
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Eduarda
+   - tipo: DEPOSITO
+   - valor: 560.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Rebeca
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Ângelo
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-20T15:43:47
+OperacaoBancaria:
+   operador: Flôr
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-21T12:37:07
+OperacaoBancaria:
+   operador: Luiza
+   - tipo: DEPOSITO
+   - valor: 540.0
+   - dataHoraOperacao: 2022-01-21T12:42:37
+OperacaoBancaria:
+   operador: Catarina
+   - tipo: SAQUE
+   - valor: 140.0
+   - dataHoraOperacao: 2022-01-21T15:37:07
+OperacaoBancaria:
+   operador: Ezequiel
+   - tipo: DEPOSITO
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-23T12:32:28
+OperacaoBancaria:
+   operador: Victor
+   - tipo: DEPOSITO
+   - valor: 200.0
+   - dataHoraOperacao: 2022-01-23T14:32:28
+OperacaoBancaria:
+   operador: Giovanna
+   - tipo: DEPOSITO
+   - valor: 100.0
+   - dataHoraOperacao: 2022-01-26T12:53:20
+OperacaoBancaria:
+   operador: Emanuel
+   - tipo: SAQUE
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-26T13:53:20
+OperacaoBancaria:
+   operador: Catarina
+   - tipo: DEPOSITO
+   - valor: 600.0
+   - dataHoraOperacao: 2022-01-26T13:53:20
+OperacaoBancaria:
+   operador: David
+   - tipo: DEPOSITO
+   - valor: 340.0
+   - dataHoraOperacao: 2022-01-26T14:53:20
+OperacaoBancaria:
+   operador: Luiza
+   - tipo: SAQUE
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-26T15:53:20
+OperacaoBancaria:
+   operador: Ezequiel
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-29T14:56:11
+contaBancaria:
+   -id: d4781ab0-5137-4fa9-9c40-3fe233eee508
+   -banco: Santander
+   -agencia: 0186
+   -conta: 48394523-9
+   -saldo: 4520.0

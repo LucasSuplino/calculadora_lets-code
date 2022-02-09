@@ -1,0 +1,126 @@
+OperacaoBancaria:
+   operador: Yuri
+   - tipo: DEPOSITO
+   - valor: 80.0
+   - dataHoraOperacao: 2022-01-03T12:20:27
+OperacaoBancaria:
+   operador: Murilo
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-04T12:24:42
+OperacaoBancaria:
+   operador: Bryan
+   - tipo: DEPOSITO
+   - valor: 420.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Bryan
+   - tipo: DEPOSITO
+   - valor: 420.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Emanuel
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Bryan
+   - tipo: DEPOSITO
+   - valor: 420.0
+   - dataHoraOperacao: 2022-01-04T15:24:42
+OperacaoBancaria:
+   operador: Francisco
+   - tipo: SAQUE
+   - valor: 100.0
+   - dataHoraOperacao: 2022-01-07T13:55:53
+OperacaoBancaria:
+   operador: Victor
+   - tipo: DEPOSITO
+   - valor: 40.0
+   - dataHoraOperacao: 2022-01-08T13:18:40
+OperacaoBancaria:
+   operador: Larissa
+   - tipo: DEPOSITO
+   - valor: 300.0
+   - dataHoraOperacao: 2022-01-17T14:30:28
+OperacaoBancaria:
+   operador: Débora
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-20T12:43:47
+OperacaoBancaria:
+   operador: Ingrid
+   - tipo: SAQUE
+   - valor: 600.0
+   - dataHoraOperacao: 2022-01-20T13:43:47
+OperacaoBancaria:
+   operador: Bryan
+   - tipo: DEPOSITO
+   - valor: 100.0
+   - dataHoraOperacao: 2022-01-20T14:43:47
+OperacaoBancaria:
+   operador: Ezequiel
+   - tipo: SAQUE
+   - valor: 360.0
+   - dataHoraOperacao: 2022-01-20T15:12:24
+OperacaoBancaria:
+   operador: Milene
+   - tipo: DEPOSITO
+   - valor: 380.0
+   - dataHoraOperacao: 2022-01-21T11:37:07
+OperacaoBancaria:
+   operador: Lorenzo
+   - tipo: DEPOSITO
+   - valor: 440.0
+   - dataHoraOperacao: 2022-01-21T14:42:37
+OperacaoBancaria:
+   operador: Murilo
+   - tipo: DEPOSITO
+   - valor: 400.0
+   - dataHoraOperacao: 2022-01-25T11:22:43
+OperacaoBancaria:
+   operador: Catarina
+   - tipo: SAQUE
+   - valor: 220.0
+   - dataHoraOperacao: 2022-01-25T11:22:43
+OperacaoBancaria:
+   operador: Francisco
+   - tipo: DEPOSITO
+   - valor: 280.0
+   - dataHoraOperacao: 2022-01-25T13:22:43
+OperacaoBancaria:
+   operador: Clarissa
+   - tipo: DEPOSITO
+   - valor: 20.0
+   - dataHoraOperacao: 2022-01-26T14:53:20
+OperacaoBancaria:
+   operador: Murilo
+   - tipo: SAQUE
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-26T14:53:20
+OperacaoBancaria:
+   operador: Brenda
+   - tipo: DEPOSITO
+   - valor: 560.0
+   - dataHoraOperacao: 2022-01-28T11:34:24
+OperacaoBancaria:
+   operador: Theo
+   - tipo: SAQUE
+   - valor: 60.0
+   - dataHoraOperacao: 2022-01-28T14:34:24
+OperacaoBancaria:
+   operador: David
+   - tipo: SAQUE
+   - valor: 180.0
+   - dataHoraOperacao: 2022-01-29T11:56:11
+OperacaoBancaria:
+   operador: Antônio
+   - tipo: SAQUE
+   - valor: 240.0
+   - dataHoraOperacao: 2022-01-29T13:56:11
+contaBancaria:
+   -id: eb3098d4-8b55-4a8a-ab3e-10d79efd1214
+   -banco: Santander
+   -agencia: 4009
+   -conta: 43811754-6
+   -saldo: 2120.0
